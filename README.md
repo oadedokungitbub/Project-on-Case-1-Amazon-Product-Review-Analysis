@@ -116,7 +116,7 @@ The pivot charts were added to analyze the data given and the dashboards were th
 
 FINDINGS AND RECOMMENDATIONS
 
-Prouct Review Analysis:
+Product Review Analysis:
 
 From my analysis, it is revealed that 'Tablet' has the highest average ratings with average rating of 4.6 showing a better satisfaction by user about the product. "In-Air" has the highest number of reviews with a total of 4,204,939 showing a strong and steady interest of the product by customers.
 
